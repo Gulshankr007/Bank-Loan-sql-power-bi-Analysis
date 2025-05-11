@@ -1,4 +1,4 @@
-                                                      Bank-Loan-sql-power-bi-Analysis
+                                             Bank-Loan-sql-power-bi-Analysis
 
 
 ![Loan dashboard1](https://github.com/user-attachments/assets/2d43f5e8-254e-431b-9c85-2814ee7e08c1)                                                                                       
